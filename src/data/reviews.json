@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Sarah Johnson",
+      "review": "Great professor, explains complex concepts clearly",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "review": "Engaging lectures but assignments are too difficult",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Emily Rodriguez",
+      "review": "Knowledgeable but often arrives late to class",
+      "subject": "Chemistry",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. David Kim",
+      "review": "Excellent mentor, always available for office hours",
+      "subject": "Computer Science",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Elizabeth Thompson",
+      "review": "Boring lectures, but fair grading",
+      "subject": "History",
+      "stars": 2
+    },
+    {
+      "professor": "Dr. Robert Patel",
+      "review": "Passionate about the subject, inspires students",
+      "subject": "Literature",
+      "stars": 5
+    },
+    {
+      "professor": "Prof. Amanda Wilson",
+      "review": "Confusing explanations, not helpful during office hours",
+      "subject": "Economics",
+      "stars": 1
+    },
+    {
+      "professor": "Dr. James Lee",
+      "review": "Tough but fair, learned a lot in this class",
+      "subject": "Biology",
+      "stars": 4
+    }
+  ]
+}
